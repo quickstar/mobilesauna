@@ -6,8 +6,7 @@ portfolio:
   - name: Sauna panorama
     image: images/portfolio/image-03-full.jpg
     image_webp: ''
-    categories:
-    - sauna
+    categories: []
     content: ''
     link: "#"
   - name: Sauna aussen
