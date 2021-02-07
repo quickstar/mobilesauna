@@ -1,12 +1,15 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: Howi's Sauna
+  content: Die mobile Sauna bringt Spass und Erholung an dein Event. Ob private Anlässe,
+    Fussballmannschafts-, Vereins-, oder Firmen-Veranstaltung, die mobile Sauna macht
+    deine Feier zum Erlebnis. Ausgestattet mit einem Holzofen, einem Aufgusskübel
+    und Thermohygrometer wird die Sauna auf über 85 Grad aufgeheizt.
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Zum Angebot
+    link: "#services"
