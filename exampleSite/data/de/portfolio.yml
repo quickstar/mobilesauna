@@ -24,13 +24,6 @@ portfolio:
     - Aussen
     content: ''
     link: "#"
-  - name: Sauna Eingang
-    image: images/portfolio/image-04.jpg
-    image_webp: ''
-    categories:
-    - Innen
-    content: ''
-    link: "#"
   - name: Saunaofen
     image: images/portfolio/image-06.jpg
     image_webp: ''
@@ -52,29 +45,8 @@ portfolio:
     - Innen
     content: ''
     link: "#"
-  - name: Sauna Innenraum
-    image: images/portfolio/image-09.jpg
-    image_webp: ''
-    categories:
-    - Innen
-    content: ''
-    link: "#"
-  - name: Sauna Innenraum
-    image: images/portfolio/image-10.jpg
-    image_webp: ''
-    categories:
-    - Innen
-    content: ''
-    link: "#"
   - name: Saunaofen
     image: images/portfolio/image-11.jpg
-    image_webp: ''
-    categories:
-    - Innen
-    content: ''
-    link: "#"
-  - name: Saunaofen
-    image: images/portfolio/image-12.jpg
     image_webp: ''
     categories:
     - Innen
