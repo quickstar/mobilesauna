@@ -13,10 +13,10 @@ contact:
   - icon: ti-email
     info: 'Email: howi@mobilesauna.ch'
   contact_form:
-    enable: true
+    enable: false
     form_action: "#"
-    name: Stephan Howald
-    email: howi@mobilesauna.ch
+    name: Vorname Nachname
+    email: example@gmail.com
     subject: Betreff
     message: Nachricht
     submit: Submit
