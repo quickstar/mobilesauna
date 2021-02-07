@@ -17,8 +17,9 @@ portfolio:
     content: ''
     link: ''
   - name: Sauna Eingangsbereich
-    image: images/portfolio/image-02-full.pg
+    image: images/portfolio/image-02-full.jpg
     image_webp: ''
-    categories: []
+    categories:
+    - Aussen
     content: ''
     link: "#"
