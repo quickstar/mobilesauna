@@ -1,4 +1,5 @@
 baseURL = "https://mobilesauna.netlify.app/"
+defaultContentLanguage = "de"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
@@ -6,34 +7,34 @@ summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
 title = "mobilesauna"
-[Languages.en]
+[Languages.de]
 contentDir = "content/deutsch"
 copyright = "Copyright &copy; 2021 by [Mobilesauna](https://www.mobilesauna.ch)"
 home = "Home"
 languageCode = "de-CH"
-languageName = "De"
+languageName = "de"
 weight = 1
-[[Languages.en.menu.main]]
+[[Languages.de.menu.main]]
 name = "about"
 pre = "#"
 url = "about"
 weight = 1
-[[Languages.en.menu.main]]
+[[Languages.de.menu.main]]
 name = "services"
 pre = "#"
 url = "services"
 weight = 2
-[[Languages.en.menu.main]]
+[[Languages.de.menu.main]]
 name = "preis"
 pre = "#"
 url = "pricing"
 weight = 5
-[[Languages.en.menu.main]]
+[[Languages.de.menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
 weight = 6
-[[Languages.en.menu.main]]
+[[Languages.de.menu.main]]
 name = "kontakt"
 pre = "#"
 url = "contact"
