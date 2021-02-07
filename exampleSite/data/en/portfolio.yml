@@ -4,7 +4,7 @@ portfolio:
   title: Sauna
   portfolio_item:
   - name: Sauna panorama
-    image: image-03-full.jpg
+    image: images/portfolio/image-03-full.jpg
     image_webp: ''
     categories:
     - sauna
