@@ -15,7 +15,7 @@ languageCode = "de-CH"
 languageName = "de"
 weight = 1
 [[Languages.de.menu.main]]
-name = "about"
+name = "willkommen"
 pre = "#"
 url = "about"
 weight = 1
@@ -25,7 +25,7 @@ pre = "#"
 url = "portfolio"
 weight = 2
 [[Languages.de.menu.main]]
-name = "preis"
+name = "angebot"
 pre = "#"
 url = "pricing"
 weight = 5

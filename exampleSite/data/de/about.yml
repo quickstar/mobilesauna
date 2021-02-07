@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Willkommen bei Mobilesauna
+  title : Hallo Du
   about_item :
   - icon : ti-shine # themify icon pack : https://themify.me/themify-icons
     title : Spass & Erholung
