@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Sauna
   portfolio_item:
+  - name: Sauna panorama
+    image: image-03-full.jpg
+    image_webp: ''
+    categories:
+    - sauna
+    content: ''
+    link: "#"
   - name: Sauna aussen
     image: images/portfolio/image-01-full.jpg
     image_webp: ''
