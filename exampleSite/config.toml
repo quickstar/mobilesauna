@@ -1,4 +1,4 @@
-baseURL = "https://mobilesauna.netlify.app/"
+baseURL = "https://mobilesauna.ch/"
 defaultContentLanguage = "de"
 disableLanguages = ["fr"]
 disqusShortname = ""
