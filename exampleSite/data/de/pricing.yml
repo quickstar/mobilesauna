@@ -1,64 +1,27 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Angebot
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : Beliebt
+      price : 250 CHF
+      unit : Tag
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Sauna
+        - Aufgussmittel
+        - Reinigung
+        - 'Lieferung: 0.80 / Kilometer'
       button:
-        label : "Signup"
-        link : "#"
-      
+        label : "Anfragen"
+        link : "#contact"
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : Brennholz
+      price : 20 CHF
+      unit : Bündel
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+        - Espe
+        - Heimische Tanne
+        - Hemlock, Kelo
+        - Nordische Ficht
+        - und Rotzeder
