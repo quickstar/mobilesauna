@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Mich
+  title : Willkommen bei Mobilesauna
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-shine # themify icon pack : https://themify.me/themify-icons
+    title : Spass & Erholung
+    content : Die mobile Sauna bringt Spass und Erholung an dein Event.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Vielseitig
+    content : Ob private Anlässe, Fussballmannschafts-, Vereins-, oder Firmen-Veranstaltung
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-dashboard # themify icon pack : https://themify.me/themify-icons
+    title : Material
+    content : Ausgestattet mit einem Holzofen, einem Aufgusskübel und Thermohygrometer wird die Sauna auf über 85 Grad aufgeheizt. 
