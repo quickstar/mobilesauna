@@ -4,31 +4,26 @@ pricing:
   title : Angebot
   pricing_table :
     - name : Einzelner Tag
-      price : 250 CHF
+      price : 150 CHF
       unit : Tag
       services:
         - Sauna
         - Aufgussmittel
         - Reinigung
-        - 'Lieferung: 0.80 / Kilometer'
+        - Holz für 4h Saunabetrieb
+        - 'Lieferung: 1.10 / Kilometer'
       button:
         label : "Anfragen"
         link : "#contact"
     - name : Zeitraum
-      price : Auf anfrage
+      price : Auf Anfrage
       unit : '-'
       services:
-        - Gerne stelle ich dir die Saune für einen längeren Zeitraum zu Verfügung
+        - Gerne stelle ich dir die Sauna für einen längeren Zeitraum zu Verfügung
         - Preis auf Anfrage
       button:
         label : "Anfragen"
         link : "#contact"
     - name : Brennholz
       price : 20 CHF
-      unit : Bündel
-      services:
-        - Espe
-        - Heimische Tanne
-        - Hemlock, Kelo
-        - Nordische Ficht
-        - und Rotzeder
+      unit : Kiste
