@@ -7,7 +7,7 @@ contact:
     rechtzeitige Reservierung.
   contact_list:
   - icon: ti-location-pin
-    info: 3414 Oberburg
+    info: 3457 Wasen im Emmental
   - icon: ti-mobile
     info: 'Phone: +41 79 687 71 77'
   - icon: ti-email
@@ -15,8 +15,8 @@ contact:
   contact_form:
     enable: true
     form_action: "#"
-    name: Your Name
-    email: Your Email
-    subject: Subject
-    message: Message
+    name: Stephan Howald
+    email: howi@mobilesauna.ch
+    subject: Betreff
+    message: Nachricht
     submit: Submit
