@@ -4,11 +4,7 @@ image: ''
 email: howi@mobilesauna.ch
 social:
 - icon: ti-facebook
-  link: "#"
-- icon: ti-twitter-alt
-  link: "#"
-- icon: ti-github
-  link: "#"
+  link: https://www.facebook.com/howald.stephan
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
