@@ -3,24 +3,80 @@ portfolio:
   enable: true
   title: Sauna
   portfolio_item:
-  - name: Sauna panorama
-    image: images/portfolio/image-03-full.jpg
+  - name: Sauna innen
+    image: images/portfolio/image-01.jpg
+    image_webp: ''
+    categories:
+    - Innen
+    content: ''
+    link: ''
+  - name: Sauna aussen
+    image: images/portfolio/image-02.jpg
     image_webp: ''
     categories:
     - Aussen
     content: ''
     link: ''
   - name: Sauna aussen
-    image: images/portfolio/image-01-full.jpg
+    image: images/portfolio/image-03.jpg
     image_webp: ''
     categories:
     - Aussen
     content: ''
-    link: ''
-  - name: Sauna Eingangsbereich
-    image: images/portfolio/image-02-full.jpg
+    link: "#"
+  - name: Sauna Eingang
+    image: images/portfolio/image-04.jpg
     image_webp: ''
     categories:
-    - Aussen
+    - Innen
+    content: ''
+    link: "#"
+  - name: Saunaofen
+    image: images/portfolio/image-06.jpg
+    image_webp: ''
+    categories:
+    - Innen
+    content: ''
+    link: "#"
+  - name: Sauna Bank
+    image: images/portfolio/image-07.jpg
+    image_webp: ''
+    categories:
+    - Innen
+    content: ''
+    link: "#"
+  - name: Sauna Instrumente
+    image: images/portfolio/image-08.jpg
+    image_webp: ''
+    categories:
+    - Innen
+    content: ''
+    link: "#"
+  - name: Sauna Innenraum
+    image: images/portfolio/image-09.jpg
+    image_webp: ''
+    categories:
+    - Innen
+    content: ''
+    link: "#"
+  - name: Sauna Innenraum
+    image: images/portfolio/image-10.jpg
+    image_webp: ''
+    categories:
+    - Innen
+    content: ''
+    link: "#"
+  - name: Saunaofen
+    image: images/portfolio/image-11.jpg
+    image_webp: ''
+    categories:
+    - Innen
+    content: ''
+    link: "#"
+  - name: Saunaofen
+    image: images/portfolio/image-12.jpg
+    image_webp: ''
+    categories:
+    - Innen
     content: ''
     link: "#"

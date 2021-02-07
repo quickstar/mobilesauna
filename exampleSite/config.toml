@@ -20,9 +20,9 @@ pre = "#"
 url = "about"
 weight = 1
 [[Languages.de.menu.main]]
-name = "services"
+name = "sauna"
 pre = "#"
-url = "services"
+url = "portfolio"
 weight = 2
 [[Languages.de.menu.main]]
 name = "preis"
