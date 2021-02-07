@@ -7,11 +7,11 @@ theme = "meghna-hugo"
 themesDir = "../.."
 title = "mobilesauna"
 [Languages.en]
-contentDir = "content/english"
+contentDir = "content/deutsch"
 copyright = "Copyright &copy; 2021 by [Mobilesauna](https://www.mobilesauna.ch)"
 home = "Home"
-languageCode = "en-us"
-languageName = "En"
+languageCode = "de-CH"
+languageName = "De"
 weight = 1
 [[Languages.en.menu.main]]
 name = "about"
