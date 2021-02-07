@@ -29,11 +29,11 @@ name = "preis"
 pre = "#"
 url = "pricing"
 weight = 5
-[[Languages.de.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
+#[[Languages.de.menu.main]]
+#name = "blog"
+#pre = "#"
+#url = "blog"
+#weight = 6
 [[Languages.de.menu.main]]
 name = "kontakt"
 pre = "#"
