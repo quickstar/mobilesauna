@@ -3,8 +3,7 @@ pricing:
   enable : true
   title : Angebot
   pricing_table :
-    # pricing table loop
-    - name : Beliebt
+    - name : Einzelner Tag
       price : 250 CHF
       unit : Tag
       services:
@@ -15,7 +14,15 @@ pricing:
       button:
         label : "Anfragen"
         link : "#contact"
-    # pricing table loop
+    - name : Zeitraum
+      price : Auf anfrage
+      unit : '-'
+      services:
+        - Gerne stelle ich dir die Saune für einen längeren Zeitraum zu Verfügung
+        - Preis auf Anfrage
+      button:
+        label : "Anfragen"
+        link : "#contact"
     - name : Brennholz
       price : 20 CHF
       unit : Bündel
