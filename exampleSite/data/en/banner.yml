@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image_webp: ''
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Howi's Sauna
@@ -12,4 +12,4 @@ banner:
   button:
     enable: true
     label: Zum Angebot
-    link: "#services"
+    link: "#pricing"
