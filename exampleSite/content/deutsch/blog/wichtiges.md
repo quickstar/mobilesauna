@@ -11,15 +11,12 @@ description : "Mietbedingungen"
 
 Wir möchten mit unserer Sauna vielen Sauna-Liebhabern lange Zeit Spass bereiten. Deshalb sollte es für Dich als Mieter und Deine „Mit-Saunierenden“ selbstverständlich sein, einige Regeln einzuhalten:
 
-> Die Sauna bietet Platz für max. 5 Gäste auf einmal.
-  Das Gesamtgewicht (inkl. Trailer) beträgt 1'300 kg.
-  Die Sauna ist 3.70m hoch und 2.10m breit.
+- Die Sauna bietet Platz für max. 8 Gäste auf einmal
+- Das Gesamtgewicht beträgt 1250 kg
+- Die Sauna ist 3.60m hoch, 2.20m breit und 5.70m lang
 
 #### Wegrollschutz/Sicherheit
 Die Sauna wird vor Ort von mir gesichert und darf nicht mehr verändert werden. Die Handbremse ist wärend der gesamten Nutzung angezogen.
-
-> Achtung:
-  Bei Nässe und Kälte besteht Rutschgefahr auf dem Holz.
 
 ### Was Du beachten musst wenn Du die Sauna nutzt
 
