@@ -29,11 +29,11 @@ name = "angebot"
 pre = "#"
 url = "pricing"
 weight = 5
-#[[Languages.de.menu.main]]
-#name = "blog"
-#pre = "#"
-#url = "blog"
-#weight = 6
+[[Languages.de.menu.main]]
+name = "wichtiges"
+pre = "#"
+url = "blog"
+weight = 6
 [[Languages.de.menu.main]]
 name = "kontakt"
 pre = "#"
@@ -81,17 +81,12 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Lukas Läderach"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
-post_share = true
+post_share = false
 [params.cookies]
 enable = false
 expire_days = 2

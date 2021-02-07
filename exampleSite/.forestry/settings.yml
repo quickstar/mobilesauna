@@ -8,7 +8,7 @@ sections:
   label: Blog Post
 - type: directory
   path: exampleSite/content/deutsch/blog
-  label: Post (en)
+  label: Post (de)
   create: documents
   match: "**/*"
   new_doc_ext: md
@@ -25,7 +25,7 @@ sections:
   label: Author
 - type: directory
   path: exampleSite/content/deutsch/author
-  label: Author (en)
+  label: Author (de)
   create: documents
   match: "**/*"
   templates:
